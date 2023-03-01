@@ -1,5 +1,8 @@
 # CLIP for image-text retrieval 
 
+>End of studies internship project
+
+
 *This repository is a fork of [mlfundation implementation](https://github.com/mlfoundations/open_clip) to train and use the CLIP model, please check their [README](ml_fundation_doc/mlfund_README.md) as well as this one!*
 
 This aims at delivering a way to use and to finetune the CLIP model. 
